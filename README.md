@@ -1,9 +1,9 @@
 # Shopping App
 
 hi there ^_^ <br />
-this is a full example design for a shopping app coded by flutter
-i hope this example is useful for you
-if you need any help do not be hesitate to contact me
+this is a full example design for a shopping app coded by flutter <br />
+i hope this example is useful for you <br />
+if you need any help do not be hesitate to contact me <br />
 
 ## Getting Started
 
